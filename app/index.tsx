@@ -3,5 +3,5 @@ import "../global.css";
 
 export default function Index() {
   console.log("loading index.tsx...");
-  return <Redirect href="/(welcome)" />;
+  return <Redirect href="/(root)" />;
 }
